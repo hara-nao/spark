@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config version="1.0">
+ <Options>
+   <DockedWindowVisible>false</DockedWindowVisible>
+ </Options>
+ <Policies>
+   <EnableSIPURIDialling>true</EnableSIPURIDialling>
+   <ServicesDomainSsoEmailPrompt>OFF</ServicesDomainSsoEmailPrompt>
+ </Policies>
+ <Directory>
+   <DirectoryServerType>UDS</DirectoryServerType>
+   <UdsServer>cucm-pub.pisctest2.dynu.com</UdsServer>
+   <UdsPhotoUriWithToken>http://be6k-tms2.pisctest.dynu.com/picture/%%uid%%.jpg</UdsPhotoUriWithToken>
+ </Directory>
+</config>
