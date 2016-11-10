@@ -10,6 +10,6 @@
  <Directory>
    <DirectoryServerType>UDS</DirectoryServerType>
    <UdsServer>cucm-pub.pisctest2.dynu.com</UdsServer>
-   <UdsPhotoUriWithToken>http://be6k-tms2.pisctest.dynu.com/picture/%%uid%%.jpg</UdsPhotoUriWithToken>
+   <UdsPhotoUriWithToken>http://be6k-tms2.pisctest2.dynu.com/picture/%%uid%%.jpg</UdsPhotoUriWithToken>
  </Directory>
 </config>
